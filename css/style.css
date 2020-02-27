@@ -266,3 +266,23 @@ a.article:hover {
         display: none;
     }
 }
+
+.carousel-control-next {
+    color: #036;
+    margin-right: -.5rem;
+    z-index: 10;
+}
+
+.carousel-control-prev {
+    color: #036;
+    margin-left: -.5rem;
+    z-index: 10;
+}
+
+.carousel-control-prev:hover {
+    color: red;
+}
+
+.carousel-control-next:hover {
+    color: red;
+}
